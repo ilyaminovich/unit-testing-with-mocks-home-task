@@ -84,4 +84,4 @@ class UserDataHandler {
   }
 }
 
-module.exports = UserDataHandler
+module.exports = { UserDataHandler }
